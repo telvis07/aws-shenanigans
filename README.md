@@ -1,4 +1,7 @@
-Examples from AWS developers class using Terraform:
+This repo contains examples from various courses and tutorials to create Amazon Web Services (AWS) applications.
+
+
+References:
 
 - https://learning.oreilly.com/videos/aws-certified-developer/9780134855158/
-[Makefile](dynamodb_streaming_lambda%2FMakefile)
+- https://registry.terraform.io/providers/hashicorp/aws/latest/docs
